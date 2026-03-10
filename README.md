@@ -1,14 +1,14 @@
 # Hey, I'm George 👋
 
-Based in Philadelphia, PA — Air Force veteran (Security Forces), Jamaican roots, and a CS grad making my way into full stack development.
+Based in Philadelphia, PA. Air Force veteran (Security Forces), Jamaican roots, and a CS grad making my way into full stack development.
 
-I studied Computational Math: Computer Science at Liberty University and I've been heads down ever since — building projects, grinding LeetCode, and always learning something new.
+I studied Computational Math: Computer Science at Liberty University and I've been heads down ever since; building projects, grinding LeetCode, and always learning something new.
 
 ---
 
 ## About Me
 
-- Manufacturing Technician at Hologic — building X-ray systems for women's health
+- Manufacturing Technician at Hologic, building X-ray systems for women's health
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
 - Working towards full stack development
@@ -30,7 +30,8 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 
 ## What I'm Working On
 
-- Building out a Contact Manager app — currently adding an API, then moving on to the frontend with HTML & CSS
+- Building out a Contact Manager app, currently adding an API, then moving on to the frontend with HTML & CSS
+- Building a chess engine in C# with a frontend Blazer component 
 - Solving LeetCode problems in C# and tracking every solution
 - Picking up Python, JavaScript, frontend, and databases — always adding tools to the belt
 
