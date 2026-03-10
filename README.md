@@ -45,6 +45,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-gmahfood-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmahfood)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Mahfood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-mahfood-b439b118b)
 [![Instagram](https://img.shields.io/badge/Instagram-gsxr__george-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gsxr_george)
 [![YouTube](https://img.shields.io/badge/YouTube-gsxr__mahfood-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gsxr_mahfood)
 
