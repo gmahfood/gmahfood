@@ -13,6 +13,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - B.S. in Computational Math: Computer Science — Liberty University
 - Working towards full stack development
 - Currently reading *A Player's Guide to C#*
+- Preparing with Leetcode and neetcode.io
 - Always building something
 
 ---
