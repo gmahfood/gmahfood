@@ -33,6 +33,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 ## What I'm Working On
 
 - Building out a Contact Manager app, currently adding an API, then moving on to the frontend with HTML & CSS
+- Building a Battleship game in C++ with
 - Building a chess engine in C# with a Blazor UI component 
 - Solving LeetCode problems in C# and tracking every solution
 - Picking up Python, JavaScript, frontend, and databases — always adding tools to the belt
