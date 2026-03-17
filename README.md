@@ -11,7 +11,8 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Manufacturing Technician at Hologic, building X-ray systems for women's health
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
-- Working towards full stack development
+- Working towards embedded software engineering
+- Sharpening C++ & C#
 - Currently reading *A Player's Guide to C#*
 - Preparing with Leetcode and neetcode.io
 - Always building something
