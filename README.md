@@ -1,6 +1,6 @@
 # Hey, I'm George 👋
 
-Based in Philadelphia, PA. Air Force veteran (Security Forces), Jamaican roots, and a CS grad making my way into full stack development.
+Based in Philadelphia, PA. Air Force veteran (Security Forces) and a CS grad making my way into software engineering.
 
 I studied Computational Math: Computer Science at Liberty University and I've been heads down ever since; building projects, grinding LeetCode, and always learning something new.
 
