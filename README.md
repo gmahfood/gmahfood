@@ -12,8 +12,8 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
 - Working towards embedded software engineering
-- Sharpening C++ & C#
-- Currently reading *A Player's Guide to C#*
+- Sharpening C++, C, & C#
+- Currently reading *A Player's Guide to C#* & *Cracking the Coding Interview*
 - Preparing with Leetcode and neetcode.io
 - Always building something
 
