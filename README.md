@@ -9,6 +9,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
 - Working towards embedded software engineering
+- Owner of a Bambu Lab P2S — using it for robotics and embedded hardware prototyping and enclosure design
 - Sharpening C++, C, & Python
 - Currently reading *Embedded C Coding Standard* & *Cracking the Coding Interview*
 - Grinding with Leetcode and neetcode.io
@@ -46,6 +47,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Solving LeetCode problems daily in C# — tracking every solution and optimising for runtime and memory efficiency
 - Starting a Data & AI Engineering program with General Assembly — covering Python for data science and AI, with a focus on applying Python to robotics scripting, simulation, and automation tooling
 - Studying embedded systems fundamentals — C/C++ for microcontrollers, RTOS concepts, memory management, and hardware protocols in preparation for a career transition into embedded software engineering
+- Designing and printing custom enclosures and hardware mounts for embedded projects using Fusion 360 and a Bambu Lab P2S
 
 ---
 
