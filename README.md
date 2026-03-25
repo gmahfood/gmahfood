@@ -1,53 +1,60 @@
 # Hey, I'm George 👋
-
-Based in Philadelphia, PA. Air Force veteran (Security Forces) and a CS grad making my way into software engineering.
-
-I studied Computational Math: Computer Science at Liberty University and I've been heads down ever since; building projects, grinding LeetCode, and always learning something new.
+Based in Philadelphia, PA. Air Force veteran (Security Forces) and a Comp Math/CS grad making my way into embedded software engineering.
+I studied Computational Math: Computer Science at Liberty University and I've been heads down ever since; building projects, and always learning something new.
 
 ---
 
 ## About Me
-
 - Manufacturing Technician at Hologic, building X-ray systems for women's health
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
 - Working towards embedded software engineering
-- Sharpening C++, C, & C#
-- Currently reading *A Player's Guide to C#* & *Cracking the Coding Interview*
-- Preparing with Leetcode and neetcode.io
+- Sharpening C++, C, & Python
+- Currently reading *Embedded C Coding Standard* & *Cracking the Coding Interview*
+- Grinding with Leetcode and neetcode.io
 - Always building something
 
 ---
 
 ## Tech Stack
 
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Embedded & Hardware**
+
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**CAD & Design**
+
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
 
 ---
 
 ## What I'm Working On
-
-- Building out a Contact Manager app, currently adding an API, then moving on to the frontend with HTML & CSS
-- Building a Battleship game in C++ 
-- Building a chess engine in C# with a Blazor UI component 
-- Solving LeetCode problems in C# and tracking every solution
-- Picking up Python, JavaScript, frontend, and databases — always adding tools to the belt
+- Deepening my C++ through a Battleship game — focusing on OOP, data structures, and low-level debugging practices relevant to embedded systems development
+- Building a chess engine in C# with a Blazor UI component, exploring game state management, and clean software architecture
+- Solving LeetCode problems daily in C# — tracking every solution and optimising for runtime and memory efficiency
+- Starting a Data & AI Engineering program with General Assembly — covering Python for data science and AI, with a focus on applying Python to robotics scripting, simulation, and automation tooling
+- Studying embedded systems fundamentals — C/C++ for microcontrollers, RTOS concepts, memory management, and hardware protocols in preparation for a career transition into embedded software engineering
 
 ---
 
 ## LeetCode
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-gmahfood-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gmahfood/)
 
 ---
 
 ## Connect
-
 [![GitHub](https://img.shields.io/badge/GitHub-gmahfood-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmahfood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Mahfood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-mahfood-b439b118b)
 [![Instagram](https://img.shields.io/badge/Instagram-gsxr__george-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gsxr_george)
