@@ -5,6 +5,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 ---
 
 ## About Me
+
 - Manufacturing Technician at Hologic, building X-ray systems for women's health
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
@@ -38,28 +39,30 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1DB9C3?style=for-the-badge&logo=easyeda&logoColor=white)
 
 ---
 
 ## What I'm Working On
-- Deepening my C++ through a Battleship game — focusing on OOP, data structures, and low-level debugging practices relevant to embedded systems development
+
+- Designed my first custom PCB in EasyEDA for the dht11-fsm-dashboard project — fabricated by PCBWay
+- Studying embedded systems fundamentals — C/C++ for microcontrollers, RTOS concepts, memory management, and hardware protocols in preparation for a career transition into embedded software engineering
+- Designing and printing custom enclosures and hardware mounts for embedded projects using Fusion 360 and a Bambu Lab P2S
 - Building a chess engine in C# with a Blazor UI component, exploring game state management, and clean software architecture
 - Solving LeetCode problems daily in C# — tracking every solution and optimising for runtime and memory efficiency
 - Starting a Data & AI Engineering program with General Assembly — covering Python for data science and AI, with a focus on applying Python to robotics scripting, simulation, and automation tooling
-- Studying embedded systems fundamentals — C/C++ for microcontrollers, RTOS concepts, memory management, and hardware protocols in preparation for a career transition into embedded software engineering
-- Designing and printing custom enclosures and hardware mounts for embedded projects using Fusion 360 and a Bambu Lab P2S
 
 ---
 
 ## LeetCode
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-gmahfood-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gmahfood/)
 
 ---
 
 ## Connect
+
 [![GitHub](https://img.shields.io/badge/GitHub-gmahfood-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmahfood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Mahfood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-mahfood-b439b118b)
-[![Instagram](https://img.shields.io/badge/Instagram-gsxr__george-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gsxr_george)
-[![YouTube](https://img.shields.io/badge/YouTube-gsxr__mahfood-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gsxr_mahfood)
-
----
+[![Instagram](https://img.shields.io/badge/Instagram-baremetal.labs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baremetal.labs/)
+[![YouTube](https://img.shields.io/badge/YouTube-baremetal.engineer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@baremetal.engineer)
