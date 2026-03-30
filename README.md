@@ -49,7 +49,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Designing and printing custom enclosures and hardware mounts for embedded projects using Fusion 360 and a Bambu Lab P2S
 - Building a chess engine in C# with a Blazor UI component, exploring game state management, and clean software architecture
 - Solving LeetCode problems in C# & C++ — tracking every solution and optimising for runtime and memory efficiency
-- Starting a Data & AI Engineering program with General Assembly — covering Python for data science and AI, with a focus on applying Python to robotics scripting, simulation, and automation tooling
+- Starting a Data & AI Engineering program with General Assembly — covering Python for data science and AI, with a focus on applying Python to embedded scripting, simulation, and automation.
 
 ---
 
