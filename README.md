@@ -26,7 +26,6 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Embedded & Hardware**
 
@@ -49,7 +48,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Studying embedded systems fundamentals — C/C++ for microcontrollers, RTOS concepts, memory management, and hardware protocols in preparation for a career transition into embedded software engineering
 - Designing and printing custom enclosures and hardware mounts for embedded projects using Fusion 360 and a Bambu Lab P2S
 - Building a chess engine in C# with a Blazor UI component, exploring game state management, and clean software architecture
-- Solving LeetCode problems daily in C# — tracking every solution and optimising for runtime and memory efficiency
+- Solving LeetCode problems in C# & C++ — tracking every solution and optimising for runtime and memory efficiency
 - Starting a Data & AI Engineering program with General Assembly — covering Python for data science and AI, with a focus on applying Python to robotics scripting, simulation, and automation tooling
 
 ---
