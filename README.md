@@ -10,7 +10,7 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 - Veteran of the United States Air Force
 - B.S. in Computational Math: Computer Science — Liberty University
 - Working towards embedded software engineering
-- Owner of a Bambu Lab P2S — using it for embedded hardware prototyping and enclosure design
+- Working with a Bambu Lab P2S — using it for embedded hardware prototyping and enclosure design
 - Sharpening C++, C, & Python
 - Currently reading *Embedded C Coding Standard* & *Cracking the Coding Interview*
 - Grinding with Leetcode and neetcode.io
