@@ -31,11 +31,9 @@ I studied Computational Math: Computer Science at Liberty University and I've be
 
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **CAD & Design**
 
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1DB9C3?style=for-the-badge&logo=easyeda&logoColor=white)
