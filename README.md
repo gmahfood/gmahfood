@@ -19,6 +19,7 @@ I studied Computational Mathematics: Computer Science at Liberty University and 
 
 ## What I'm Working On
 
+- Building a multi-task human reaction timer on the STM32F411 Black Pill using FreeRTOS — four concurrent tasks communicating via queues and binary semaphores, with a custom PCB and 3.5" TFT display 
 - Designed my first custom PCB in EasyEDA for the `dht11-fsm-dashboard` project — fabricated by PCBWay
 - Studying embedded systems fundamentals: C/C++ for microcontrollers, RTOS concepts, memory management, and hardware protocols
 - Designing and printing custom enclosures and hardware mounts using Fusion 360 and a Bambu Lab P2S
