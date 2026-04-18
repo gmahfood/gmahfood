@@ -1,7 +1,7 @@
 # Hey, I'm George 👋
 
 Based in Philadelphia, PA. Air Force veteran (Security Forces) and a Comp Math/CS grad making my way into embedded software engineering.
-I studied Computational Mathematics: Computer Science at Liberty University and I've been heads down ever since — building projects, and always learning something new.
+I studied Computational Mathematics - Computer Science at Liberty University and I've been heads down ever since — building projects, and always learning something new.
 
 ---
 
